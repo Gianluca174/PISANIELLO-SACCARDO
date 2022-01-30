@@ -13,6 +13,6 @@ Punteggio parole:
 - 1 parole da 6 o 7 lettere = 40 punti 
 - 1 parola da 8 o più lettere = 50 punti 
 - 1 parola sbagliata = -15 punti  
-##### -Bonus 
+##### Bonus 
 - parola contenente le lettere j,k,y,x,w = + 30 punti  
 - parola che contiene 1 doppia = + 20 punti 
