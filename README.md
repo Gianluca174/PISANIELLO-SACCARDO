@@ -20,11 +20,13 @@ Punteggio parole:
 ### 
 Questo gioco è stato ideato durante l'ora di compresenza di matematica coding. Durante queste ore 
 
+## CALCOLO COMBINATORIO 
+
   Il **calcolo combitorio** è, in matematica, ciò che ci consente di determinare in quanti e in quali modi è possibile ordinare o raggruppare un determinato numero di elementi su un determinato numero di posti.
   
   Il calcolo combinatorio è un tipo di calcolo che comprende vari metodi tra i quali:
   
- ##### PERMUTAZIONI SEMPLICI E PERMUTAZIONI CON RIPETIZIONE
+ #### PERMUTAZIONI SEMPLICI E PERMUTAZIONI CON RIPETIZIONE
   - Le permutazioni semplici di "n" elementi distinti, sono tutti i gruppi formati dagli "n" elementi, che differiscono per il loro ordine.
   - Le permutazioni con ripetizione di "n" elementi distinti, sono tutti i gruppi formati dagli "n" elementi, alcuni ripetuti, che differiscono per il loro ordine.
     
