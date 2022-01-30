@@ -17,9 +17,9 @@ Punteggio parole:
 - parola contenente le lettere j,k,y,x,w = + 30 punti  
 - parola che contiene 1 doppia = + 20 punti 
 
-### 
+### CONTESTO
 Questo gioco è stato ideato durante l'ora di compresenza di matematica coding. Per realizzarlo abbiamo utilizzato alcune regole matematiche riguardanti il calcolo combinatorio
-che avevamo precedentemente con la docente di matematica.
+che avevamo precedentemente affrontato con la docente di matematica.
 ## CALCOLO COMBINATORIO 
 
   Il **calcolo combitorio** è, in matematica, ciò che ci consente di determinare in quanti e in quali modi è possibile ordinare o raggruppare un determinato numero di elementi su un determinato numero di posti.
