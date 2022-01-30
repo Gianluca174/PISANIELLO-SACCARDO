@@ -1,10 +1,11 @@
 # PISANIELLO-SACCARDO-D'ORAZI
 
-Hunt Word
+# Hunt Word
+
 Abstract
 Hunt word è un gioco che si basa sull’ottenere quanti più punti possibili formando parole.Per formare queste parole il giocatore avrà a disposizione una tabella con delle lettere.!!ATTENZIONE!! Il giocatore dovrà compiere la sfida in un tempo limite della durata di cinque minuti.
 
-> Funzionalità
+Funzionalità
 Lo scopo del gioco è ottenere più punti possibili in un determinato tempo.Per ottenere dei punti bisogna trovare nelle parole sensate nella tabella contenente lettere. L’assegnazione dei punti dipende dalla lunghezza delle parole trovate. Inoltre sono presenti dei bonus per ottenere più punti.
 Punteggio parole:
 1 parola da 2 o 3 lettere = 20 punti 
