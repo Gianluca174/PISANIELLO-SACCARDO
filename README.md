@@ -16,4 +16,4 @@ Punteggio parole:
 
 Bonus 
 parola contenente le lettere j,k,y,x,w = + 30 punti  
-parola che contiene 1 doppia = + 20 punti
+parola che contiene 1 doppia = + 20 punti 
