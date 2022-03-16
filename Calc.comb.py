@@ -106,7 +106,7 @@ print(anagrammi)
     def confUtil(self):
 
 
-    # PERMUTAZIONi
+    # PERMUTAZIONI
 
     def nPermutSenzaRip(self):
         nPermutSenzaRip= fattoriale(n)
