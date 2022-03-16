@@ -3,7 +3,7 @@
 ## Ruzzle
 
 ### Abstract
-Ruzzle è un gioco che si basa sull’ottenere quanti più punti possibili formando parole.Per formare queste parole il giocatore avrà a disposizione una tabella con delle lettere.!!ATTENZIONE!! Il giocatore dovrà compiere la sfida in un tempo limite della durata di cinque minuti.
+Ruzzle è un gioco che si basa sull’ottenere quanti più punti possibili formando parole.Per formare queste parole il giocatore avrà a disposizione una tabella con delle lettere. *N.B.* Il giocatore dovrà compiere la sfida in un tempo limite della durata di cinque minuti.
 
 ### Funzionalità
 Lo scopo del gioco è ottenere più punti possibili in un determinato tempo.Per ottenere dei punti bisogna trovare nelle parole sensate nella tabella contenente lettere. L’assegnazione dei punti dipende dalla lunghezza delle parole trovate. Inoltre sono presenti dei bonus per ottenere più punti.
@@ -22,7 +22,7 @@ Questo gioco è stato ideato durante l'ora di compresenza di matematica coding. 
 che avevamo precedentemente affrontato con la docente di matematica.
 ### CALCOLO COMBINATORIO 
 
-  Il **calcolo combitorio** è, in matematica, ciò che ci consente di determinare in quanti e in quali modi è possibile ordinare o raggruppare un determinato numero di elementi su un determinato numero di posti.
+  Il **calcolo combinatorio** è, in matematica, ciò che ci consente di determinare in quanti e in quali modi è possibile ordinare o raggruppare un determinato numero di elementi su un determinato numero di posti.
   
   Il calcolo combinatorio è un tipo di calcolo che comprende vari metodi tra i quali:
   
