@@ -39,3 +39,8 @@ che avevamo precedentemente affrontato con la docente di matematica.
 - Le combinazioni con ripetizione di "n" elementi su "k" posti, sono tutti i gruppi di "k" elementi scelti tra gli "n", alcuni ripetuti, che differiscono per almeno un elemento e non per l'ordine. 
 
 #### DESCRIZIONE BLOCCHI
+Descrizione dei blocchi utilizzati nel diagramma di flusso
+-Inizializzazione: Il blocco inizializzazione permette al giocatore di scegliere il nome utente e il livello di difficoltà di gioco;
+-Aggiorna punteggio: il blocco aggiunge il punteggio in base ai risultati del giocatore;
+-Schermata fine partita: il blocco mostra il punteggio realizzato durante la partita dal giocatore;
+-Azzera punteggio: il blocco azzera il punteggio realizzato nella partita precedentemente iniziata dal giocatore,se quest'ultimo,decide di iniziare una nuova partita
