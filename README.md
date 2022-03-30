@@ -37,3 +37,4 @@ che avevamo precedentemente affrontato con la docente di matematica.
 #### COMBINAZIONI SEMPLICI E COMBINAZIONI CON RIPETIZIONE
 - Le combinazioni semplici di "n" elementi su "k" posti, sono tutti i gruppi di "k" elementi scelti tra gli "n" che differiscono per almeno un elemento e non per l'ordine.
 - Le combinazioni con ripetizione di "n" elementi su "k" posti, sono tutti i gruppi di "k" elementi scelti tra gli "n", alcuni ripetuti, che differiscono per almeno un elemento e non per l'ordine. 
+- fagiolo
